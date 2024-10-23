@@ -1,0 +1,6 @@
+@apiencuestas_HostAddress = http://localhost:5153
+
+GET {{apiencuestas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
